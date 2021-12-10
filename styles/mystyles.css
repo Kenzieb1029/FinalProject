@@ -1,0 +1,68 @@
+body {
+    background-color: aliceblue;
+}
+
+.mymaintitle {
+    color: #e7f3f8;
+    font-size: 60px;
+    text-align: center;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.mysubtitle {
+    color: #e7f3f8;
+    font-size: 30px;
+   text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.homeposts {
+    color: #193b49;
+    font-size: 25px;
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.rtitle {
+    font-weight: bold;
+    color: #193b49;
+    font-size: 28px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.rsubtitle1 {
+    font-style: normal;
+    color: #193b49;
+    font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.rsubtitle2 {
+    font-style: italic;
+    color: #193b49;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.rsubtitle3 {
+    color: #193b49;
+    font-style: normal;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.myfooter {
+    color: #193b49;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+
+.myheader {
+    color: #193b49;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+}
